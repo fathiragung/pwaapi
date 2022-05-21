@@ -1,6 +1,5 @@
 {
-"products": [
-{"id":1,"name":"Ferret, black-footed","category":"Teal"},
+"products": [{"id":1,"name":"Ferret, black-footed","category":"Teal"},
 {"id":2,"name":"Small-toothed palm civet","category":"Teal"},
 {"id":3,"name":"Golden jackal","category":"Yellow"},
 {"id":4,"name":"Brush-tailed rat kangaroo","category":"Green"},
@@ -19,6 +18,5 @@
 {"id":17,"name":"Goose, snow","category":"Orange"},
 {"id":18,"name":"Red-headed woodpecker","category":"Purple"},
 {"id":19,"name":"Vulture, white-headed","category":"Pink"},
-{"id":20,"name":"Eagle, white-bellied sea","category":"Red"}
-]
+{"id":20,"name":"Eagle, white-bellied sea","category":"Red"}]
 }
