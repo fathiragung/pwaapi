@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"Ferret, black-footed","category":"Teal"},
+{"id":2,"name":"Small-toothed palm civet","category":"Teal"},
+{"id":3,"name":"Golden jackal","category":"Yellow"},
+{"id":4,"name":"Brush-tailed rat kangaroo","category":"Green"},
+{"id":5,"name":"Brazilian otter","category":"Crimson"},
+{"id":6,"name":"White-browed owl","category":"Mauv"},
+{"id":7,"name":"Stork, greater adjutant","category":"Blue"},
+{"id":8,"name":"African ground squirrel (unidentified)","category":"Yellow"},
+{"id":9,"name":"Crested screamer","category":"Violet"},
+{"id":10,"name":"Indian porcupine","category":"Puce"},
+{"id":11,"name":"California sea lion","category":"Goldenrod"},
+{"id":12,"name":"Field flicker","category":"Yellow"},
+{"id":13,"name":"Egyptian cobra","category":"Indigo"},
+{"id":14,"name":"Kangaroo, red","category":"Green"},
+{"id":15,"name":"Squirrel, uinta ground","category":"Aquamarine"},
+{"id":16,"name":"Black swan","category":"Orange"},
+{"id":17,"name":"Goose, snow","category":"Orange"},
+{"id":18,"name":"Red-headed woodpecker","category":"Purple"},
+{"id":19,"name":"Vulture, white-headed","category":"Pink"},
+{"id":20,"name":"Eagle, white-bellied sea","category":"Red"}
+]
+}
